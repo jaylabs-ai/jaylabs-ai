@@ -5,6 +5,16 @@ My goal is to understand modern AI capabilities by creating real, usable project
 
 ---
 
+## 👤 About Me
+21-year digital forensic examiner now exploring AI by building tools in public.  
+Based in Huntsville, Alabama.
+
+![Location](https://img.shields.io/badge/Location-Huntsville_AL-blue)
+![Website](https://img.shields.io/badge/Website-furnituredonation.app-orange)
+![Focus](https://img.shields.io/badge/Focus-Learning_AI-green)
+
+---
+
 ## 🚀 What I'm Working On
 
 ### **FurnitureDonation.app**
@@ -42,12 +52,5 @@ More repos coming as I publish public-facing components of my work.
 
 ---
 
-## 🌐 Connect
-**Website:** https://furnituredonation.app  
-**YouTube:** Coming soon  
-**Location:** Huntsville, Alabama
-
----
-
-If you're exploring AI and building tools of your own, feel free to follow along.  
+If you're learning AI or building small tools, feel free to follow along.  
 More coming soon.
