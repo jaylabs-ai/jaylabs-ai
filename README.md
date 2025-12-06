@@ -9,9 +9,9 @@ My goal is to understand modern AI capabilities by creating real, usable project
 21-year digital forensic examiner now exploring AI by building tools in public.  
 Based in Huntsville, Alabama.
 
-![Location](https://img.shields.io/badge/Location-Huntsville_AL-blue)
-![Website](https://img.shields.io/badge/Website-furnituredonation.app-orange)
-![Focus](https://img.shields.io/badge/Focus-Learning_AI-green)
+[![Location](https://img.shields.io/badge/Location-Huntsville_AL-blue)]()
+[![Website](https://img.shields.io/badge/Website-furnituredonation.app-orange)](https://furnituredonation.app)
+[![Focus](https://img.shields.io/badge/Focus-Learning_AI-green)]()
 
 ---
 
