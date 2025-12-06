@@ -17,7 +17,7 @@ Based in Huntsville, Alabama.
 
 ## 🚀 What I'm Working On
 
-### **FurnitureDonation.app**
+### [**FurnitureDonation.app**](https://furnituredonation.app)
 A nationwide directory that helps users find reliable places to donate furniture and appliances.  
 Built with Next.js, Supabase, and modern AI tooling.  
 (Private repo hosted on another GitHub account)
